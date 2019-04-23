@@ -1,0 +1,8 @@
+->nano Hello.txt
+->cat Hello
+->git init
+->git status
+->ls-la
+->git add Hello.txt(for a single file)
+->git add .(for all)
+ 
